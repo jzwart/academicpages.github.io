@@ -2,7 +2,7 @@
 title: "Phytoplankton traits predict ecosystem function in a global set of lakes"
 collection: publications
 permalink: /publication/zwart_2015_phyto_traits
-excerpt: 'This paper exp'
+excerpt:
 date: 2015-02-23
 venue: 'Ecology'
 paperurl: 'http://jzwart.github.io/files/zwart_2015_phyto_traits.pdf'
